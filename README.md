@@ -17,7 +17,8 @@ The dataset includes the following key features:
 ## Project Structure
 - `Mall Customer Segmentation.ipynb`: Jupyter notebook containing the clustering and visualizations.
 - `README.md`: Project overview and usage instructions.
-- `requirements.txt`: Lists the necessary Python packages and dependencies.
+- `Mall_csv`: Contatains the dataset.
+
 
 ## Installation and Usage
 
